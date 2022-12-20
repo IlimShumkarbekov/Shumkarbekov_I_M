@@ -3,7 +3,7 @@
 #include <math.h>
 	int main()
 	{
-		int n = 0; m = 0;
+		int n = 0, m = 0;
 		double x, y;
 			std::vector <double> a;
 			for (int i = 0; i < n; i++) {
